@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Frank Giordano
 
 <!--
 **frankgiordano/frankgiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankgiordano)](https://github.com/anuraghazra/github-readme-stats)
+
+📖 About me  
+
+🖥 Software Developer  
+🔭 I’m currently working on a Java SDK for the Zowe Open Source framework...  
+🌱 I’m currently working and sharping my learning with the following tech stack: Java, NodeJS, Typescript, Angular and Golang...  
