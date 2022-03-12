@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankgiordano)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankgiordano&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 📖 About me  
 
