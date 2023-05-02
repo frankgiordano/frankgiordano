@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 📖 About me  
 
 🖥 Software Developer  
-🔭 I’m currently working on a Java SDK for the Zowe Open Source framework...  
-🌱 Currently sharping my coding skills with the following tech stack: Java, NodeJS, Typescript, Angular and Golang...  
+🔭 Partially working on Zowe Open Source framework during my work and spare time.  
+🌱 Tech stack I dabble in: Java, NodeJS, Typescript, C, Angular and Golang.
