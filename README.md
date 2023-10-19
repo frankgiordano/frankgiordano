@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🖥 Software Developer  
 🔭 Main maintainer and developer for the Zowe Client Java SDK open source project hosted by the Linux Foundation (LFX).  
-🔭 Contributor to the Zowe open source framework for z/OS hosted and sponsored by the Linux Foundation (LFX).   
-🔭 LFX Mentorship summer mentor where I have sponsored and helped train college students to become the next generation of open source developers.   
-🌱 Tech stack I dabble in: Java, NodeJS, Typescript, C, Angular and Golang.
+🔭 Contributor to the Zowe open source framework for z/OS hosted and sponsored by LFX.   
+🔭 LFX mentor for project-based mentorship programs where helped sponsore and train students to become the next generation of open source developers.   
+🌱 Spend most of my time dabbling in: Java, NodeJS, Typescript, C, Angular and Golang.
