@@ -15,7 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Metrics](https://metrics.lecoq.io/frankgiordano?theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/frankgiordano?style=flat&label=Followers)
+
+## Projects
+
+### Zowe Java SDK
+
+![Stars](https://img.shields.io/github/stars/zowe/zowe-client-java-sdk?style=flat&label=Stars)
+![Forks](https://img.shields.io/github/forks/zowe/zowe-client-java-sdk?style=flat&label=Forks)
+![Issues](https://img.shields.io/github/issues/zowe/zowe-client-java-sdk?style=flat&label=Issues)
+
+### ZosShell
+
+![Stars](https://img.shields.io/github/stars/frankgiordano/ZosShell?style=flat&label=Stars)
+![Forks](https://img.shields.io/github/forks/frankgiordano/ZosShell?style=flat&label=Forks)
+![Issues](https://img.shields.io/github/issues/frankgiordano/ZosShell?style=flat&label=Issues)
+
 
 📖 About me  
 
