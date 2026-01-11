@@ -1,19 +1,6 @@
 ### Hi there 👋 I'm Frank Giordano
 
-<!--
-**frankgiordano/frankgiordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub followers](https://img.shields.io/github/followers/frankgiordano?style=flat&label=Followers)
 
 📖 About me  
 
@@ -22,8 +9,6 @@ Here are some ideas to get you started:
 🔭 Contributor to the [Zowe](https://github.com/zowe) open source framework for z/OS hosted and sponsored by LFX.     
 🔭 LFX mentor for project-based mentorship programs, which helps sponsor and train students to become the next generation of open-source developers.     
 🌱 Spend most of my time dabbling in: Java, Spring, NodeJS, Typescript, C, Angular and Golang.  
-
-![GitHub followers](https://img.shields.io/github/followers/frankgiordano?style=flat&label=Followers)
 
 ## Projects
 
