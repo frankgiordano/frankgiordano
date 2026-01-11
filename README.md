@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Metrics](https://metrics.lecoq.io/frankgiordano?theme=dark&format=png)
+![GitHub Metrics](https://metrics.lecoq.io/frankgiordano?theme=dark)
 
 📖 About me  
 
