@@ -28,6 +28,4 @@ Mentored a Summer Open Mainframe Project contributor focused on expanding **Unix
   
 ### 🌱 Technologies
 
-Working primarily with **Java, Spring, Node.js, TypeScript, C, and Angular**.
-
-Focused on building **developer tooling, APIs, mainframe modernization, and modern cloud-native ecosystems**.
+Working primarily with **Java, Spring, Node.js, TypeScript, C, and Angular**.  
