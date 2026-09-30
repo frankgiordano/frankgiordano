@@ -12,7 +12,7 @@
 
 I participate in **project-based open-source mentorship programs** through the Linux Foundation and Open Mainframe Project, helping developers gain hands-on experience contributing to production open-source software.  
   
-My mentorship projects have focused on expanding the **Zowe Client Java SDK** and introducing developers to Java and all its related Java build and testing tools, z/OS, z/OSMF REST APIs, GitHub workflows, and collaborative open-source development.
+My mentorship projects have focused on expanding the **Zowe Client Java SDK** and introducing developers to the Java ecosystem, z/OS, z/OSMF REST APIs, GitHub workflows, and collaborative open-source development.
 
 #### 2026 — Workflow APIs for Zowe Client Java SDK
 
