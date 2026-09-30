@@ -8,7 +8,7 @@
 - 🔧 Contributor to [Tiny C Projects](https://github.com/dangookin/Tiny_C_Projects)
 - 🔧 Contributor to [TypeScript Collections Framework](https://github.com/larrydiamond/typescriptcollectionsframework)
 
-### 🤝 Linux Foundation / Open Mainframe Project Mentor
+### 🤝 Linux Foundation Mentor
 
 I participate in **project-based open-source mentorship programs** through the Linux Foundation and Open Mainframe Project, helping developers gain hands-on experience contributing to production open-source software.  
   
